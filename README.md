@@ -45,8 +45,6 @@ Meu objetivo é evoluir como **desenvolvedor Full Stack**, criando soluções pr
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jhonatanhbraga&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jhonatanhbraga&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 🎯 Objetivo
