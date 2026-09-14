@@ -43,7 +43,7 @@ Meu objetivo é evoluir como **desenvolvedor Full Stack**, criando soluções pr
 
 ## 📊 Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonatanhbraga&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=jhonatanhbraga&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jhonatanhbraga&theme=tokyonight&hide_border=true)
 
